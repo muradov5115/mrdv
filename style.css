@@ -1,0 +1,24 @@
+.menu{
+    width: 1440px;
+    border: 2px solid white;
+    margin: o auto;
+    display: flex;
+    justify-content: space-between;
+    font-size: 75px;
+    list-style: none;
+}
+.com{
+    background-color: red;
+     text-align: center;
+    width: 450px;
+    height: 200px;
+    border: 2px solid red;
+}
+.whitch{
+    display: flex;
+    justify-content: space-around;
+    justify-content: space-evenly;
+    padding: 225px 100px;
+    font-size: 65px;
+    color: white;
+}
